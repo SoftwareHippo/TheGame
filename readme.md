@@ -2,8 +2,8 @@
 
 ## Getting Started
 
-Open Godot
-import /TheGame/SourceCode
+1. Open Godot 4.x.x
+2. import /TheGame/SourceCode
 
 
 ```
