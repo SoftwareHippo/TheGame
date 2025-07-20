@@ -1,0 +1,25 @@
+# Rules / Features
+Pro generation or not?
+Hover Info Indicators
+Auto connect lines between points?
+    Change color for completed routes
+Custom Icon for each point.
+Types of points?
+   Shop
+   Battle
+   Medical
+   Boss
+   Mini Boss
+Select-able points per next tier select-able.
+Adjacent points can be sec-table.
+Indicator for completion.
+Once point is selected
+   Are you sure?
+   Load new level scene.
+   Fade out / Slide out animation from map to new level.
+Background
+    Animated
+    Pro generation by rules?
+Level fits to screen
+   Next levels slide in and out?
+

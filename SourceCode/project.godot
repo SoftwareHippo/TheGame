@@ -11,5 +11,14 @@ config_version=5
 [application]
 
 config/name="TheGame"
+run/main_scene="res://Scenes/TitleScreen.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
+
+[autoload]
+
+SceneManager="*res://addons/scene_manager/Scripts/SceneManager.gd"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/scene_manager/plugin.cfg")
